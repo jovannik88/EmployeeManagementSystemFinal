@@ -13,17 +13,7 @@ import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
-/**
- *
- * @author mamy
- */
 
-/**
- * Main class of the Employee Management System application.
- * <p>
- * This class launches the JavaFX application and initializes the login page with draggable window functionality.
- * </p>
- */
 public class EmployeeManagementSystem extends Application {
 
     private double x = 0; // Stores the X coordinate when the mouse is pressed
