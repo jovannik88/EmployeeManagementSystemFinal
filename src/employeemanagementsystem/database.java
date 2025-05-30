@@ -8,10 +8,6 @@ package employeemanagementsystem;
 import java.sql.Connection;
 import java.sql.DriverManager;
 
-/**
- *
- * @author mamy
- */
 
 /**
  * Utility class for establishing a connection to the MySQL database.
