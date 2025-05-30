@@ -7,10 +7,7 @@ package employeemanagementsystem;
 
 import java.sql.Date;
 
-/**
- *
- * @author mamy
- */
+
 
 public class EmployeeData {
 

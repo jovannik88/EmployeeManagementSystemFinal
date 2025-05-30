@@ -5,10 +5,7 @@
  */
 package employeemanagementsystem;
 
-/**
- *
- * @author mamy
- */
+
 public abstract class User {
 
     protected String username;
